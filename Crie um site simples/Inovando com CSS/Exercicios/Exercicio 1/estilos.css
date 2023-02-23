@@ -1,0 +1,22 @@
+body {
+    background-color: #1C1C1C;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+hr {
+    border-color: darkred;
+}
+
+p {
+    color: aliceblue;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+a:link {color: green;}
+a:visited {color: yellow;}
+a:hover {color: black;}
+a:active {color: blue;}

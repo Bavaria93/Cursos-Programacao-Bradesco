@@ -1,0 +1,9 @@
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+#imagem {
+    float: left;
+    width: 100px;
+}
+
+img {width: 100px;}
+p {clear: both;}

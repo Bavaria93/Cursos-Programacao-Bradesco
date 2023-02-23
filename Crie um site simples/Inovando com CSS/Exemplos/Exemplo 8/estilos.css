@@ -1,0 +1,15 @@
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+/* Marcadores circulares */
+ul.a {list-style-type: circle;}
+
+/* Marcadores quadrados */
+ul.b {list-style-type: square;}
+
+/* Números romanos */
+ol.c {list-style-type: upper-roman;}
+
+/* Letras em caixa baixa */
+ol.d {list-style-type: lower-alpha;}
+
+/* Imagem como marcador */
+ul.e {list-style-image: url('ArrowPurple.png');}

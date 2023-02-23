@@ -1,0 +1,11 @@
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h1 {
+    background: orange;
+    padding: 10px 10px 10px 30px;
+}
+
+p {
+    background: yellow;
+    padding-left: 50px;
+}

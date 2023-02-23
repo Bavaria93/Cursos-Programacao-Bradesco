@@ -1,0 +1,14 @@
+/* Remove o sublinhado de um link */
+a {text-decoration: none;}
+
+/* Adiciona uma linha sobre o texto */
+h1 {text-decoration: overline;}
+
+/* Risca o texto */
+h2 {text-decoration: line-through;}
+
+/* Sublinha o texto */
+h3 {text-decoration: underline;}
+
+/* Faz o texto piscar (nem todos os browsers aceitam essa opção) */
+h4 {text-decoration: blink;}
