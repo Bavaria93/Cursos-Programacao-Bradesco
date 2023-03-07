@@ -1,0 +1,7 @@
+p {color: green; font-size: 30px;}
+ul {
+    /* list-style-type: circle;
+    list-style-type: square;
+    list-style-type: upper-roman; */
+    list-style-type: lower-alpha;
+}

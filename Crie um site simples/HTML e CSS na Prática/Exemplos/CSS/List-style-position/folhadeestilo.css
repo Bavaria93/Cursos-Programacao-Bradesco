@@ -1,0 +1,6 @@
+p {color: green; font-size: 30px;}
+ul {
+    list-style-type: lower-alpha;
+    /* list-style-position: inside; */
+    list-style-position: outside;
+}
